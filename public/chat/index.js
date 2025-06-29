@@ -1,0 +1,1 @@
+import{m as e,Q as t,x as r,w as n}from"../assets/query-provider-Dc3Fmg30.js";function o(){return e.jsx("div",{children:"Chat"})}function s(){return e.jsx(t,{children:e.jsx(o,{})})}r.createRoot(document.getElementById("root")).render(e.jsx(n.StrictMode,{children:e.jsx(s,{})}));
